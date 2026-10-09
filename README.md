@@ -26,3 +26,4 @@ npm run server # to run graphql server
 - We are using [GraphQL](https://www.apollographql.com/)
 # score-fe-tech-test
 # score-fe-tech-test
+# score-fe-tech-test
